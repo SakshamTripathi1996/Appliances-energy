@@ -5,10 +5,10 @@ The data set is at 10 min for about 4.5 months. The house temperature and humidi
 
 ## Dataset Information 
 
-Number of instances: 19,735
-Number of attributes: 29
+1. Number of instances: 19,735
+2. Number of attributes: 29
 
-##Attribute Information
+## Attribute Information
 
 1. date: year-month-day hour:minute:second
 2. T1: Temperature in kitchen area, in Celsius
