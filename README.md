@@ -40,4 +40,5 @@ Attribute Information
 27. rv2: Random variable 2, non-dimensional
 28. Lights: energy use of light fixtures in the house in Wh
 29. Appliances: energy use in Wh (Target Variable)
+
 Where indicated, hourly data (then interpolated) from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for the distribution of the 4.5 months of weather data.
